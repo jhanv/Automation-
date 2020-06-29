@@ -1,6 +1,6 @@
 ## Job Alert - Student Employment Page - Upenn 
 
-The python code is written for getting an alerts when a new job is posted in the student employment website of UPENN.
+The python code is written for getting an alerts through email when a new job is posted in the student employment website of UPENN.
 
 The code is written only for the first job on the site.
 
