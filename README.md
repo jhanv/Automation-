@@ -1,4 +1,7 @@
-# Automated - Job Alert
+# Automated
+
+## Project - Job Alert
+
 JOB ALERT python program on UPENNs' student employment website 
 
 The python code is written for getting an alerts when a new job is posted in the student employment website of UPENN.
